@@ -1,6 +1,4 @@
-Got it! Here's the updated version of the `README.md` with the correct database schema for the `employee` table as you described:
 
----
 
 # Employee Management System
 
