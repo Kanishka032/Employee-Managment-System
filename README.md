@@ -114,6 +114,4 @@ This is a simple **Employee Management System** built using **Core Java**, **Ser
 
 
 
----
 
-This version correctly reflects the database schema with the columns `id`, `name`, `phone`, `role`, `salary`, and `password` as you specified.
