@@ -114,5 +114,3 @@ This is a simple **Employee Management System** built using **Core Java**, **Ser
 4. Open a pull request for review.
 
 
-![Image Description](C:\Users\Personal\Pictures\Saved Pictures\Screenshots)
-
